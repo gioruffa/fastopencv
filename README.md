@@ -22,4 +22,18 @@ optional arguments:
 ## Test run
 The test run will create 6 output images toggling the threshold and the nonmaxSuppression parameter
 
-![alt text](https://github.com/xmooner/fastopencv/blob/master/images/spacex-falcon-heavy.jpg "test image")
+## Results
+
+### Original image
+
+![original image](https://github.com/xmooner/fastopencv/blob/master/images/spacex-falcon-heavy.jpg?raw=true "original image")
+
+### Without nonMaxSuppression
+
+![without nonmaxSuppression](https://github.com/xmooner/fastopencv/blob/master/images/fast_12_False.png?raw=true?raw=true "without nonmaxSuppression")
+
+### With nonMaxSuppression
+
+![with nonmaxSuppression](https://github.com/xmooner/fastopencv/blob/master/images/fast_12_True.png?raw=true "with nonmaxSuppression")
+
+
