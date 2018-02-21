@@ -1,6 +1,6 @@
 # FAST Feature Detection Alogrithm
 
-test script for evaluation the FAST openCV implementation.
+test script for the evaluation of the FAST openCV implementation.
 
 ```
 usage: image.py [-h] [--threshold THRESHOLD] [--test] [--non-max-suppression] infile
