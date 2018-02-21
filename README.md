@@ -21,3 +21,5 @@ optional arguments:
 
 ## Test run
 The test run will create 6 output images toggling the threshold and the nonmaxSuppression parameter
+
+![alt text](https://github.com/xmooner/fastopencv/blob/master/images/spacex-falcon-heavy.jpg "test image")
